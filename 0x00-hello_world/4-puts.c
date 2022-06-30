@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-*C Programming by O.I Collins
+* C Programming by O.I Collins
 * Description: main - Prints out a string to stdout.
 * Return: 0 if success.
 */

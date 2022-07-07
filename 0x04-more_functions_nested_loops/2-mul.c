@@ -1,11 +1,11 @@
 #include "main.h"
-
 /**
- * _isdigit - prints the code
- * @c: int to be checked
- * Return: successful digit is 1 is 0 otherwise
+ * mul - retuens the results of the parameters
+ * @a: int type number
+ * @b: int type number
+ * Return: 0
  */
-int _isdigit(int c)
+int mul(int a, int b)
 {
-return (c >= 0 && c <= 9);
+		return (a * b);
 }

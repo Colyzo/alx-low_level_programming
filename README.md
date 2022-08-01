@@ -1,1 +1,1 @@
-C Programming
+C - Structures, typedef

@@ -1,8 +1,4 @@
-#include "holberton.h"
-#include <unistd.h>
-#include <sys/types.h>
-#include <sys/stat.h>
-#include <fcntl.h>
+#include "main.h"
 
 /**
  * _strlen - finds the length of a string
